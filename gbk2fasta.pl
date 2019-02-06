@@ -8,7 +8,7 @@
 
 use Bio::SeqIO;
 
-my $usage = "perl gbk2fasta.pl in.gbk out.fasta"; 
+my $usage = "Example: perl gbk2fasta.pl in.gbk out.fasta\n"; 
 my $infile = shift or die $usage; 
 my $outfile = shift or die $usage;
 
