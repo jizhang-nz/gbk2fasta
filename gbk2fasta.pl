@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#function: convert GenBank sequence file to FASTA format sequence file.
+#function: converting GenBank file into FASTA file.
 
 #Copy (C) 2018-2019 Massey University. All rights reserved
 #Written by Ji Zhang, MD, PhD
@@ -8,7 +8,7 @@
 
 use Bio::SeqIO;
 
-my $usage = "Example: perl gbk2fasta.pl in.gbk out.fasta\n"; 
+my $usage = "Example: perl gbk2fasta.pl in.gbk out.fas\n"; 
 my $infile = shift or die $usage; 
 my $outfile = shift or die $usage;
 
