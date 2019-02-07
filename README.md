@@ -9,6 +9,6 @@ Before start, you need to make sure BioPerl is full functional in your system:
    * [BioPerl](https://bioperl.org/INSTALL.html)
 
 ## Usage
-    perl gbk2fasta in.gbk out.fas
+    perl gbk2fasta.pl in.gbk out.fas
 
 
