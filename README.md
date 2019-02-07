@@ -2,7 +2,7 @@
 GenBank to FASTA converter.
 
 ## Introduction
-This is a simple Perl script to convert sequence file in GenBank format to FASTA format.
+This is a simple Perl script to convert the format of the sequence file from GenBank to FASTA format.
 
 ## Prerequisite
 Before start, you need to make sure BioPerl is full functional in your system:
