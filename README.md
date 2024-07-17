@@ -11,4 +11,10 @@ Before start, you need to make sure BioPerl is full functional in your system:
 ## Usage
     perl gbk2fasta.pl in.gbk out.fas
 
+## Python Requirements
+It requires biopython which can be installed using the following command
+```shell
+pip3 install biopython
+````
+
 
